@@ -1,0 +1,41 @@
+body {
+	background-image: url("../images/partyhat.png");
+	background-repeat: repeat-x;
+	background-color: #fcf6ff;
+	font-family: 'Unkempt', cursive;
+	color: #BB7BFF;
+}
+
+.title {
+	text-align: center;
+	text-decoration: underline;
+}
+
+nav ul {
+  list-style: none;
+  background-color: #BB7BFF;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  font-size: 1.2em;
+  line-height: 40px;
+  height: 40px;
+  border-bottom: 1px solid #888;
+}
+
+nav a {
+  text-decoration: none;
+  display: block;
+  color: #FFF;
+}
+nav a:hover {
+  background-color: #feb3ff;
+  color: #ecd9ff;
+}
+
+.gift {
+	padding-left: 5%;
+}
